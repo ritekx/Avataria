@@ -1,7 +1,7 @@
 # Avataria PVP TR - V2
 Avataria PVP pozwala na skonfigurowanie własnego serwera avataria.
 
-# Aktualizacje 08.08.2020
+# Aktualizacje 08.08.2025
 - Dodano funkcję Chat Decor.
 - Naprawiono błędy.
 
